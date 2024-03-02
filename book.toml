@@ -1,0 +1,6 @@
+[book]
+authors = ["Gugle"]
+language = "zh"
+multilingual = false
+src = "src"
+title = "Gugle的模组开发教程"
